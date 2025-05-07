@@ -1,0 +1,33 @@
+name: l2n
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - pytorch
+  - torchvision
+  - cudatoolkit=10.1
+  - cudnn=7
+  - scikit-learn
+  - scikit-image
+  - pandas
+  - spacy
+  - pytesseract
+  - matplotlib
+  - pillow
+  - pyaudio
+  - pydub
+  - sox
+  - isodate
+  - imagehash
+  - imageio
+  - termcolor
+  - tqdm
+  - appdirs
+  - gdown
+  - sphinx
+  - google-api-python-client
+  - google-auth-oauthlib
+  - google-auth-httplib2
+  - pre-commit
+  - speechrecognition
+prefix: /home/ubuntu/miniconda3/envs/l2n
