@@ -1,3 +1,0 @@
-[submodule "Models/summarizer"]
-	path = lecture2notes/models/summarizer
-	url = https://github.com/HHousen/DocSum
